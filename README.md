@@ -1,4 +1,4 @@
-# dataStructuresJava
+# Data Structures - Java
 Coding assignments from Data Structures course at UNC, Fall 2014
 
 <b>Assignment 1: VipQueue </b> <br>
